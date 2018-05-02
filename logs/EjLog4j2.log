@@ -1,0 +1,6 @@
+[TRACE] - EjLog4j2:12 2018-04-24 16:33:09 - trace message
+[DEBUG] - EjLog4j2:13 2018-04-24 16:33:09 - debug message
+[ WARN] - EjLog4j2:14 2018-04-24 16:33:09 - warn message
+[ INFO] - EjLog4j2:15 2018-04-24 16:33:09 - info message
+[ERROR] - EjLog4j2:16 2018-04-24 16:33:09 - error message
+[FATAL] - EjLog4j2:17 2018-04-24 16:33:09 - fatal message
